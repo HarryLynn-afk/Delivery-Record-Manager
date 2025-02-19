@@ -25,26 +25,29 @@ This project is a **Delivery Service Management System** implemented in Python. 
 ### Prerequisites
 Ensure you have **Python 3** installed on your system. You also need to install the required dependencies.
 
+```sh
 pip install prettytable
+```
 
 ### Clone the Repository
-
-git clone https://github.com/yourusername/delivery-service.git
-cd delivery-service
+```sh
+git clone https://github.com/HarryLynn-afk/Delivery-Record-Manager.git
+cd Deliver-Record-Manager
+```
 
 ## Usage
 Run the application by executing the following command:
-
+```sh
 python delivery_service.py
-
+```
 You will be presented with the main menu where you can choose different actions.
 
 ## Project Structure
 ```
  delivery-service/
-│--  delivery_service.py  # Main program file
-│--  delivery_data.csv    # Data storage file
-│--  README.md            # Project documentation
+│-- delivery_service.py  # Main program file
+│-- delivery_data.csv    # Data storage file
+│-- README.md            # Project documentation
 ```
 
 ## How It Works
@@ -94,5 +97,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 This project is licensed under the **MIT License**.
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[HarryLynn](https://github.com/HarryLynn-afk)
 
